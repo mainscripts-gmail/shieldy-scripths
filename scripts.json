@@ -1,0 +1,20 @@
+{
+  "repo_owner": "mainscripts-gmail",
+  "repo_name": "shieldy-scripts",
+  "last_updated": "2026-07-25",
+  "scripts": [
+    {
+      "id": "bloxfruits_autofarm_v2",
+      "name": "Blox Fruits - Safe Auto Farm",
+      "author": "mainscripts-gmail",
+      "version": "2.1",
+      "approved_date": "2026-07-25",
+      "raw_url": "https://raw.githubusercontent.com/mainscripts-gmail/shieldy-scripts/main/scripts/001_bloxfruits_autofarm.lua",
+      "github_url": "https://github.com/mainscripts-gmail/shieldy-scripts/blob/main/scripts/001_bloxfruits_autofarm.lua",
+      "hash_sha256": "PASTE_HASH_FROM_SCANNER_OUTPUT_HERE",
+      "supported_games": ["Blox Fruits"],
+      "features": ["Auto Quest", "Auto Farm", "No Key System"],
+      "status": "APPROVED"
+    }
+  ]
+}
