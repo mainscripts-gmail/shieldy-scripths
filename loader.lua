@@ -17,7 +17,7 @@ warn("[SHIELDY] ⚠️ Everything you do is at YOUR OWN RISK. We are not liable 
 -- CONFIGURATION (100% PUBLIC — NOTHING HIDDEN)
 local CONFIG = {
     REPO_OWNER = "mainscripts-gmail",
-    REPO_NAME = "shieldy-scripts",
+    REPO_NAME = "shieldy-scripths",
     BRANCH = "main",
     ALLOWED_HOSTS = { -- Only allow calls to TRUSTED domains
         ["raw.githubusercontent.com"] = true,
